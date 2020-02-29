@@ -8,3 +8,5 @@ http://relaysbc.sourceforge.net/
 
 https://www.tindie.com/products/jhallen/single-board-relay-computer/
 
+https://en.wikipedia.org/wiki/Z3_(computer)
+
